@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #4f4f4f;
+}
+
+button {
+    display: block;
+    padding: 20px;
+    margin: 200px auto 0 auto;
+    font-size: 1.5rem;
+    background-color: #4cbb84;
+    color: #fff;
+    border-radius: 1rem;
+    outline: none;
+}
+
+.resultKeys {
+    text-align: center;
+    box-sizing: border-box;
+    padding: 1rem;
+    width: 350px;
+    color: white;
+    margin: 1rem auto;
+    font-size: 1.5rem;
+}
