@@ -22,6 +22,11 @@ button:hover {
     color: #fff;
 }
 
+button:active {
+    background-color: #4299a0;
+    color: #fff;
+}
+
 .resultKeys {
     text-align: left;
     box-sizing: border-box;
