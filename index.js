@@ -14,3 +14,5 @@ function generateKeys() {
 }
 
 document.getElementById('btn').addEventListener('click', generateKeys);
+
+// test
